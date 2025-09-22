@@ -1,5 +1,4 @@
 
-
 // const text =() =>{
 //     let admin="true";
 
@@ -17,22 +16,27 @@
 // text();
 
 
-const getGrade =(marks)=>{
-    if(marks<35){
-        return "F";
-    }else if(marks<=50){
-        return "D";
-    }else if(marks<=70){
-        return"C";
-    }else if(marks<=85){
-        return "B";
-    }else if(marks<=100){
-        return "A";
-    }else if(marks>100){
-        return "Invalid marks";
-    }else {
-        return "Enter Marks";
-    }
-}
+// const getGrade =(marks)=>{
+//     if(marks<35){
+//         return "F";
+//     }else if(marks<=50){
+//         return "D";
+//     }else if(marks<=70){
+//         return"C";
+//     }else if(marks<=85){
+//         return "B";
+//     }else if(marks<=100){
+//         return "A";
+//     }else if(marks>100){
+//         return "Invalid marks";
+//     }else {
+//         return "Enter Marks";
+//     }
+// }
 
-console.log(getGrade(87));
+// console.log(getGrade(87));
+    
+//Loops//
+// for(let i=1; i<10; i++){
+//     console.log(i);
+// }

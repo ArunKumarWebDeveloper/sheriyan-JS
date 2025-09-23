@@ -96,3 +96,33 @@
 // for (let i=1; i<11; i++ ){
 // console.log(`5 * ${i} = ${5* i}`);
 // }
+
+// find the sum of number
+// let sum=0;
+// for(let i=1; i<101; i++){
+
+// sum=sum +i;
+// }
+// console.log(sum);
+
+// for(let a=1; a<51; a++){
+//     if(a%2 === 0){
+//         console.log(a);
+
+//     }
+// }
+// let i=1;
+
+// let val= prompt("Enter a Number");
+
+// for (let i=1; i<=val; i++){
+//     if(i%2 === 0){
+//         console.log(`${i} is even number`);
+//     }else{
+//         console.log(`${i} is odd number`);
+//     }
+
+// }
+
+//break / continue//
+

@@ -10,7 +10,7 @@
 //     }else{
 //            console.log("not logged");
 //         }
-    
+
 // }
 
 // text();
@@ -35,7 +35,7 @@
 // }
 
 // console.log(getGrade(87));
-    
+
 //Loops//
 // for(let i=1; i<10; i++){
 //     console.log(i);
@@ -59,7 +59,7 @@
 //     console.log(i);
 //   if(i===32){
 //     break;
-//   }  
+//   }
 // }
 
 //practice //
@@ -126,3 +126,22 @@
 
 //break / continue//
 
+// var a=10;
+// var b=a+2;
+// var a=b;
+// var can be redeclared but should not be used for large application
+
+// console.log(a);  
+
+// let a=10;
+// a=2+5;
+// let b=2;
+// console.log(a);
+// in const we cannot chnage value nor redeclare
+// even in let we can assign the values but cannot redeclare there only 
+
+// let a =10;{
+//     let a=20;
+//     console.log("inside",a);
+// }
+// console.log("outside",a);

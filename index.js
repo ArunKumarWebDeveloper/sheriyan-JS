@@ -12,6 +12,9 @@
 // false 0 "" null undefined NaN document.all are falsy values
 // everthing rather this false is truthy
 
+
+//operators
+
 // const text =() =>{
 //     let admin="true";
 
@@ -158,3 +161,4 @@
 //     console.log("inside",a);
 // }
 // console.log("outside",a);
+

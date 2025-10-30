@@ -1,4 +1,17 @@
 
+// type coertion 
+
+
+// Because of + operator it concatinates the values as string
+// console.log("5" + 1);
+// but - operator converts the string to number and performs subtraction
+// console.log("5" - 1);
+
+//truthy and falsy values 
+// every value in javascript is either truthy or falsy
+// false 0 "" null undefined NaN document.all are falsy values
+// everthing rather this false is truthy
+
 // const text =() =>{
 //     let admin="true";
 

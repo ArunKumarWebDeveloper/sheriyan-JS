@@ -13,6 +13,7 @@
 // everthing rather this false is truthy
 
 
+
 //operators
 
 // const text =() =>{
@@ -30,6 +31,11 @@
 // }
 
 // text();
+
+// let score =95;
+// let grade = score >=90 ? "A" : score >=80 ? "B" : score >=70 ? "C" : score >=60 ? "D" : "F";
+
+// console.log(`Your grade is ${grade}`);
 
 
 // const getGrade =(marks)=>{
@@ -162,3 +168,17 @@
 // }
 // console.log("outside",a);
 
+let i=200;
+function test(){
+    if(i===200){
+        return "success";
+    }else{
+        return "not connected";
+    }
+}
+
+test();
+
+let  result=test();
+
+console.log(result);
